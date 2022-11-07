@@ -1,0 +1,17 @@
+http://localhost:8080/exam/get?amount=3
+###
+http://localhost:8080/exam/get?amount=10
+###
+http://localhost:8080/exam/java
+###
+http://localhost:8080/exam/java/remove?question=QuestionText&answer=QuestionAnswer
+###
+http://localhost:8080/exam/java/add?question=QuestionText&answer=QuestionAnswer
+###
+http://localhost:8080/exam/java/remove?question=QuestionText&answer=QuestionAnswer
+###
+http://localhost:8080/exam/math/remove?question=QuestionText&answer=QuestionAnswer
+###
+http://localhost:8080/exam/java/add?question=QuestionText&answer=QuestionAnswer
+###
+http://localhost:8080/exam/java/find?question=QuestionText&answer=QuestionAnswer
